@@ -1,0 +1,11 @@
+.DS_Store
+ConfigAPIKeys.xcconfig
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+IOMDAutofill/GoogleService-Info.plist
+Pods/**
+Podfile.lock
