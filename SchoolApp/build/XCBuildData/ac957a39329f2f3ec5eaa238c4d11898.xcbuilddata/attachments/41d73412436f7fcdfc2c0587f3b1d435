@@ -1,0 +1,60 @@
+{
+  "" : {
+    "const-values" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master.swiftconstvalues",
+    "dependencies" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master.d",
+    "diagnostics" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master.dia",
+    "emit-module-dependencies" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolApp-master.swiftdeps"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/AppState.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/AppState.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/ContentView.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/HomeView.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/HomeView.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/LoginView.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/LoginView.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/NetworkManager.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/NetworkManager.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/OTPVerificationView.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/OTPVerificationView.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/OTPVerificationView.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/OTPVerificationView.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/SchoolAppApp.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolAppApp.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolAppApp.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/SchoolAppApp.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/StudentSelectionView.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/StudentSelectionView.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/StudentSelectionView.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/StudentSelectionView.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/SchoolApp/UserDefaultsManager.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/UserDefaultsManager.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/UserDefaultsManager.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/UserDefaultsManager.o"
+  },
+  "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ideas2it/Desktop/pandi/projects/SchoolApp/build/SchoolApp.build/Release-iphoneos/SchoolApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
